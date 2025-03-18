@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+sentence-transformers
+hdbscan
+umap-learn
+spacy
+pymupdf
+plotly
+openai
+python-dotenv
